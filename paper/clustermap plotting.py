@@ -4,7 +4,7 @@ Created on Sat Dec 30 00:37:11 2023
 
 @author: lijin
 """
-
+#import the numpy and pandas libraries
 import numpy as np
 import pandas as pd
 
